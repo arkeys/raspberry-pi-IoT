@@ -1,0 +1,1 @@
+*/15 * * * * /home/pi/flog.sh >> flog.log
